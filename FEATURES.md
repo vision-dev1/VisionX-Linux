@@ -1,4 +1,4 @@
-# 🚀 VisionX OS — Features & Roadmap
+# 🚀 VisionX OS. Features & Roadmap
 ## 🧠 What is VisionX OS?
 
 VisionX OS is a next-generation, cybersecurity-focused Linux distribution designed for learning, automation, and real-world security workflows without overwhelming the user.

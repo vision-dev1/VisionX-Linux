@@ -32,3 +32,28 @@ VisionX doesn’t.
 
 ---
 
+### 3. 🧠 Smart CLI (Planned)
+
+A next-level terminal experience:
+
+- Auto-suggestions for commands
+- Intelligent error handling
+- Explanation of outputs (not just raw data)
+- “What should I do next?” recommendations
+
+👉 Like having a mentor inside your terminal
+
+---
+
+### 4. 📦 VisionX Package Manager (Planned)
+
+Move beyond traditional package managers:
+
+- visionx install <tool>
+- Simplified installation
+- Pre-configured tools
+- No dependency headaches
+
+👉 Faster setup, cleaner experience
+
+---

@@ -69,3 +69,29 @@ VisionX integrates powerful, purpose-built tools:
 👉 Not just bundled tools — custom-built ecosystem
 
 ---
+
+### 6. 🌐 Workflow Automation
+
+Instead of running tools one by one:
+
+- Automated recon pipelines
+- Multi-step scanning in one command
+- Reduced manual effort
+
+👉 Save time, reduce errors, increase efficiency
+
+---
+
+### 7. 🎯 Beginner → Pro Friendly
+
+Unlike Kali/Parrot:
+
+Feature           	VisionX OS
+Beginner Friendly	   ✅ Yes
+Guided Learning	     ✅ Yes
+Clean UX	           ✅ Yes
+Automation           ✅ Yes
+
+👉 Designed for everyone, not just experts
+
+---

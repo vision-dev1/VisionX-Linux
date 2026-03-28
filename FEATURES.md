@@ -84,13 +84,22 @@ Instead of running tools one by one:
 
 ### 7. 🎯 Beginner → Pro Friendly
 
-Unlike Kali/Parrot:
+Unlike traditional cybersecurity distros, VisionX OS is designed to grow **with the user**:
 
-Feature           	VisionX OS
-Beginner Friendly	   ✅ Yes
-Guided Learning	     ✅ Yes
-Clean UX	           ✅ Yes
-Automation           ✅ Yes
+| Level        | Experience with VisionX OS                          |
+|-------------|----------------------------------------------------|
+| 🟢 Beginner  | Guided commands, explanations, and learning support |
+| 🟡 Intermediate | Structured workflows and automation tools         |
+| 🔴 Advanced  | Full control, custom tools, and manual execution    |
+
+| Feature              | VisionX OS |
+|---------------------|-----------|
+| Beginner Friendly   | ✅ Yes |
+| Guided Learning     | ✅ Yes |
+| Clean UX            | ✅ Yes |
+| Automation          | ✅ Yes |
+| Scales with Skill   | ✅ Yes |
+
 
 👉 Designed for everyone, not just experts
 

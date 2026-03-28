@@ -117,7 +117,7 @@ Integration with tools like VisionGuard:
 
 ---
 
-### ✅ What’s Already Built
+## ✅ What’s Already Built
 - ✔️ VisionX CLI (basic commands)
 - ✔️ Initial workflow commands:
 visionx scan
@@ -131,3 +131,25 @@ CamRadar
 
 ---
 
+## 🚧 What’s In Progress
+🔄 Expanding CLI modules
+🔄 Improving command structure
+🔄 Tool integration standardization
+🔄 Workflow automation enhancements
+
+---
+## 🧪 What’s Coming Next
+
+### 🧠 Smart CLI Engine
+- AI-like command suggestions
+- Output explanations
+- Guided next steps
+
+---
+
+### 📦 VisionX Package Manager
+visionx install
+Tool categories (web, network, recon, etc.)
+One-click setups
+
+---
